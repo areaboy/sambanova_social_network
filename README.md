@@ -9,7 +9,7 @@ This application is built with PHP, Mysql, Bootstraps, Css, Jquery-Ajax etc.
 
 1.)You will need to Download and  install Xampp Server. After installation, ensure that Mysql Database and  Apache has been started and Running from Xampp Control Panel.
 
-2.) Download and Unzip the main application folder eg **sambanova_social_network.zip** to xampp htdocs directories e.g  **C:\xampp\sambanova_social_network.**  After unzipping the directory will look like  **C:\xampp\htdocs\sambanova_social_network.**
+2.) Download and Unzip the main application folder eg **sambanova_social_network.zip** to xampp **htdocs** directories e.g  **C:\xampp\htdocs.**  After unzipping the directory will look like  **C:\xampp\htdocs\sambanova_social_network.**
 
 3.) Locate the database table called **sambanova_social_db.SQL** within the application sourcecode.
 
