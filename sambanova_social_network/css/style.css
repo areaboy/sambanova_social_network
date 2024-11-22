@@ -1,0 +1,279 @@
+﻿
+.logox {
+list-style-type: none;
+margin: 0;
+ padding: 0;
+}
+
+.img_hw{
+ width:120px;
+ height:80px;
+}
+
+ .navbar {
+  background-color:purple;
+}
+
+
+.navgate {
+padding:16px;color:white;
+
+}
+
+.good_css {
+color:black;background:#AFE1AF;padding:4px;border:none;
+}
+
+.bad_css {
+color:white;background:red;padding:4px;border:none;
+}
+
+
+.ok_css {
+padding:6px;border:none;
+}
+
+
+
+
+.ok_css2 {
+padding:6px;border:none;font-size:18px;
+}
+
+.home_img_css{
+width:100%;min-width:100%;max-width:100%;height:400px;
+}
+
+
+.ai_css{
+background:purple;color:white;padding:6px;border:none;border-radius:25%;
+//margin: 0 1%;
+margin: 0.2%;
+  display: inline-block;
+}
+
+.ai_css:hover{
+background: orange;
+color:black;
+
+}
+
+.data_cssx{
+background:purple;
+padding:4px;
+//height:30px;
+border:none;
+color:white;
+border-radius:20%;
+font-size:16px;
+//text-align:center;
+width:250px;
+
+
+}
+
+.data_cssx:hover{
+background:orange;
+color:black;
+
+}
+
+
+.download_css{
+background:#ddd;
+padding:4px;
+//height:30px;
+border:none;
+color:black;
+font-size:16px;
+//text-align:center;
+width:100%;
+
+
+}
+
+
+input[type=password] {
+  background-color: #ddd;
+  color: black;
+  padding: 8px;
+  border: none;width:100%;
+}
+
+
+input[type=file] {
+  background-color: #ddd;
+  color: black;
+  padding: 8px;
+  border: none;width:100%;
+}
+
+
+.download_css:hover{
+background:orange;
+color:black;
+
+}
+
+
+.btn1{
+background:#1F51FF;
+padding:8px;
+border:none;
+color:white;
+border-radius:20%;
+font-size:16px;
+cursor:pointer;
+
+
+}
+
+.btn1:hover{
+background:orange;
+color:black;
+
+
+}
+
+
+
+.btn2{
+background:red;
+padding:4px;
+border:none;
+color:white;
+border-radius:20%;
+font-size:12px;
+cursor:pointer;
+float:right;
+}
+
+.btn2:hover{
+background:orange;
+color:black;
+
+}
+
+
+
+
+
+.alert-success{
+background:#AFE1AF;
+padding:4px;
+border:none;
+color:black;
+
+}
+
+
+
+.alert-danger{
+background:#800000;
+padding:4px;
+border:none;
+color:white;
+
+}
+
+
+
+.btn3{
+background:fuchsia;
+padding:10px;
+border:none;
+color:white;
+border-radius:20%;
+font-size:18px;
+cursor:pointer;
+//float:right;
+
+}
+
+.btn3:hover{
+background:orange;
+color:black;
+
+}
+
+
+.nav_bar{
+background:purple;
+padding:15px;
+border:none;
+color:white;
+font-size:20px;
+width:100%;
+width:100vw;
+position: fixed;
+  top: 0;
+
+}
+
+.preloader_img_css{
+background:#ddd;
+padding:4px;
+color:black;
+}
+
+
+
+
+.alert-info{
+background:#ADD8E6;
+padding:8px;
+color:black;
+width:50%;
+width:50vw;
+
+}
+
+
+.ds {
+width: 100%;
+}
+
+
+.navbar_logo{
+width:50px;
+height:50px;
+border-radius:50%;
+}
+
+.navbar_title{
+float:center;
+
+}
+
+
+.column1 {
+  float: left;
+  width: 20%;
+  padding: 10px;
+
+}
+
+
+.column2 {
+  float: left;
+  width: 72%;
+  padding: 10px;
+
+}
+
+
+
+.column3 {
+  float: left;
+  width: 20%;
+  padding: 10px;
+
+}
+
+
+@media screen and (max-width: 600px) {
+  .column1, .column2, .column3, input[type=password], input[type=file] {
+    width: 100%;
+    margin-top: 0;
+  }
+}
